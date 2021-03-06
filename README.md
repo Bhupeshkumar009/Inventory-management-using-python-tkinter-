@@ -1,1 +1,16 @@
 # Inventory-management-using-python-tkinter-
+Package and modules imported in the project:-
+
+(1).Tkinter:- Tkinter is the standard GUI library for Python. Python when combined with Tkinter provides a fast and easy way to create GUI applications. Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit.
+(2). Sqlite 3 :- SQLite is a lightweight disk-based database that doesn’t require a separate server process and allows accessing the database using a nonstandard variant of the SQL query language. Some applications can use SQLite for internal data storage. It’s also possible to prototype an application using SQLite and then port the code to a larger database such as PostgreSQL or Oracle. 
+Listing of the imported classes from each module :-
+1.	Product
+2.	Database
+Project Description :-
+Inventory Management System is a technique of maintaining and monitoring the size of the inventory. It is in appropriate level. So that the production and distributions take place effectively. A component of supply chain management. Supervises the flow of goods from manufacturers to warehouses. Also, from these facilities to point of sale. The main objective of inventory control is to achieve maximum efficiency. In production and sales with the minimum investment in inventory.
+Inventory Control is achieved by: Purchasing items at proper time and price and in the right quantity. Provision of suitable storage locations with sufficient space. Maintaining the proper level of stocks. Firstly, the Adequate inventory identification system. Up-to-date and accurate record keeping. Appropriate requisition procedures.
+Inventory control is not all about managing stocks and ordering goods. But inventory control combined with efficient analysis tools can be truly effective. Eventually, it can help us identify the trends in the demand for various products. It can be done by carrying out various types of analysis. However, carrying out such an analysis at regular intervals. Also, can help the shop manager to decide upon the future reordering strategies. Taking some major decisions regarding the purchase of goods.
+A very useful technique for managing stocks and sales records. Super-market stores and sells various products. Which include packed foodstuffs many other products of day-to-day use. It also stores some costly items like wristwatches, small electronic goods, artificial jewellery, etc. Also, some household goods like washing powders, gaskets, etc. Managing all these products, sufficient stocks and reordering from time to time is a difficult job. To do it more effectively and correctly a better.
+For this project I have just implemented few functionalities to maintain the database like Add product, show data, Reset the frame, Delete the data from record Search the record from database, Update the record and close the window. for these functionalities I have just added the few buttons. so that it can work just after clicking those buttons.
+To meet the requirement of this project I have used the tool like Tkinter and Sqlite3 where Tkinter is used for  look and feel and to give GUI effect and Sqlite3 is used to maintain the database.
+Tool :- Tkinter , Sqlite 3
